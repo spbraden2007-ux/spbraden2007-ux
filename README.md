@@ -46,10 +46,11 @@ ML pipeline achieving 94% accuracy using LightGBM with Optuna hyperparameter opt
 Jeonju University AI Lab | Python / Scikit-learn
 
 </td>
-<td width="50%">
-
 </tr>
 </table>
+<td width="50%">
+
+
 
 ---
 
