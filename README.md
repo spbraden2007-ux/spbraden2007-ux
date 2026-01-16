@@ -20,7 +20,7 @@
 <tr>
 <td width="50%">
 
-### 🎮 [Olympic Spirit Quest](https://github.com/spbraden2007-ux/olympic-spirit-quest)
+### 🎮 [Olympic Spirit Quest](https://github.com/spbraden2007-ux/olympic-spirit-quest-project)
 Interactive 3D metaverse exploring Korean culture through Olympic ring collection quest
 
 **🏅 IOC President Award** | Solo Project | JavaScript
@@ -40,7 +40,7 @@ A* pathfinding robot with ultrasonic obstacle detection and dynamic replanning
 <tr>
 <td width="50%">
 
-### 💳 [Fraud Detection](https://github.com/spbraden2007-ux/credit-card-fraud-detection)
+### 💳 [Fraud Detection](https://github.com/spbraden2007-ux/Credit-Card-Fraud-Detection)
 ML pipeline achieving 94% accuracy using LightGBM with Optuna hyperparameter optimization
 
 Jeonju University AI Lab | Python / Scikit-learn
@@ -48,12 +48,6 @@ Jeonju University AI Lab | Python / Scikit-learn
 </td>
 <td width="50%">
 
-### 🔗 Blockchain Research
-Consensus algorithm optimization at Seoul National University Distributed Systems Lab
-
-BFT protocols | Solidity / C++
-
-</td>
 </tr>
 </table>
 
