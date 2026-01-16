@@ -1,4 +1,4 @@
-# Hi, I'm Seohyun 👋
+# Hi, I'm SP 👋
 
 **Computer Science @ University of Waterloo** | Korea Presidential Science Scholarship Recipient
 
