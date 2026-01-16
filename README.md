@@ -18,38 +18,42 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎮 [Olympic Spirit Quest](https://github.com/spbraden2007-ux/olympic-spirit-quest-project)
+**🎮 [Olympic Spirit Quest](https://github.com/spbraden2007-ux/olympic-spirit-quest-project)**
+
 Interactive 3D metaverse exploring Korean culture through Olympic ring collection quest
 
-**🏅 IOC President Award** | Solo Project | JavaScript
+🏅 IOC President Award | Solo Project | JavaScript
 
 [![Play](https://img.shields.io/badge/▶_Play_Now-Redbrick-blue)](https://redbrick.land/detail-play?pid=23345fd4-b0ae-434e-9e0c-1f50872cf943)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚗 [Autonomous Vehicle](https://github.com/spbraden2007-ux/autonomous-arduino-vehicle)
+**🚗 [Autonomous Vehicle](https://github.com/spbraden2007-ux/autonomous-arduino-vehicle)**
+
 A* pathfinding robot with ultrasonic obstacle detection and dynamic replanning
 
-**🥇 1st Place** STEM Fair 2023 | C++ / Arduino
+🥇 1st Place STEM Fair 2023 | C++ / Arduino
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💳 [Fraud Detection](https://github.com/spbraden2007-ux/Credit-Card-Fraud-Detection)
+**💳 [Fraud Detection](https://github.com/spbraden2007-ux/Credit-Card-Fraud-Detection)**
+
 ML pipeline achieving 94% accuracy using LightGBM with Optuna hyperparameter optimization
 
 Jeonju University AI Lab | Python / Scikit-learn
 
 </td>
+<td width="50%" valign="top">
+
+</td>
 </tr>
 </table>
-<td width="50%">
-
 
 
 ---
