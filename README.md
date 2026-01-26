@@ -51,6 +51,12 @@ Jeonju University AI Lab | Python / Scikit-learn
 </td>
 <td width="50%" valign="top">
 
+**📊 [AI Infrastructure Investment](https://github.com/spbraden2007-ux/ai-infrastructure-investment)**
+
+DCF model for $500M AI data center investment with sensitivity analysis and risk assessment
+
+Python / Pandas / SciPy | Financial Modeling
+
 </td>
 </tr>
 </table>
