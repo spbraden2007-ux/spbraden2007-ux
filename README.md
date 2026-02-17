@@ -8,9 +8,7 @@
 
 ## 🔭 Currently
 
-- Building **AI Infrastructure Investment Analysis** — LSTM-based portfolio optimization for alternative assets
-- Exploring **quantitative finance** and **low-latency systems**
-- Seeking **Summer 2026 Co-op** in Quant / SWE / AI
+- Seeking **Summer 2026 Co-op** in Quant / SWE / AI / Strategy
 
 ---
 
