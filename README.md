@@ -1,46 +1,46 @@
-# Hi, I'm SP 👋
+# Hi, I'm SP 
 
 **Computer Science @ University of Waterloo** | Korea Presidential Science Scholarship Recipient
 
-🏅 **IOC President Award Winner** — 2024 Gangwon Winter Youth Olympics Alibaba Cloud Hackathon
+**IOC President Award Winner** — 2024 Gangwon Winter Youth Olympics Alibaba Cloud Hackathon
 
 ---
 
-## 🔭 Currently
+## Currently
 
 - Seeking **Summer 2026 Co-op** in Quant / SWE / AI / Strategy
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🎮 [Olympic Spirit Quest](https://github.com/spbraden2007-ux/olympic-spirit-quest-project)**
+**[Olympic Spirit Quest](https://github.com/spbraden2007-ux/olympic-spirit-quest-project)**
 
 Interactive 3D metaverse exploring Korean culture through Olympic ring collection quest
 
-🏅 IOC President Award | Solo Project | JavaScript
+IOC President Award | Solo Project | JavaScript
 
 [![Play](https://img.shields.io/badge/▶_Play_Now-Redbrick-blue)](https://redbrick.land/detail-play?pid=23345fd4-b0ae-434e-9e0c-1f50872cf943)
 
 </td>
 <td width="50%" valign="top">
 
-**🚗 [Autonomous Vehicle](https://github.com/spbraden2007-ux/autonomous-arduino-vehicle)**
+**[Autonomous Vehicle](https://github.com/spbraden2007-ux/autonomous-arduino-vehicle)**
 
 A* pathfinding robot with ultrasonic obstacle detection and dynamic replanning
 
-🥇 1st Place STEM Fair 2023 | C++ / Arduino
+1st Place STEM Fair 2023 | C++ / Arduino
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**💳 [Fraud Detection](https://github.com/spbraden2007-ux/Credit-Card-Fraud-Detection)**
+**[Fraud Detection](https://github.com/spbraden2007-ux/Credit-Card-Fraud-Detection)**
 
 ML pipeline achieving 94% accuracy using LightGBM with Optuna hyperparameter optimization
 
@@ -49,7 +49,7 @@ Jeonju University AI Lab | Python / Scikit-learn
 </td>
 <td width="50%" valign="top">
 
-**📊 [AI Infrastructure Investment](https://github.com/spbraden2007-ux/ai-infrastructure-investment)**
+**[AI Infrastructure Investment](https://github.com/spbraden2007-ux/ai-infrastructure-investment)**
 
 DCF model for $500M AI data center investment with sensitivity analysis and risk assessment
 
@@ -72,13 +72,13 @@ Python / Pandas / SciPy | Financial Modeling
 
 ---
 
-## 💬 Ask Me About
+## Ask Me About
 
 `3D Game Dev` `Arduino Robotics` `ML Pipelines` `Blockchain` `Quantitative Finance`
 
 ---
 
-## 📫 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sp-park)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s384park@uwaterloo.ca)
