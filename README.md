@@ -3,6 +3,7 @@
 **Computer Science @ University of Waterloo**
 
 **Korea Presidential Science Scholar** | 대통령과학장학생
+
 ---
 
 ## Currently: Software Engineer @ Hanwha Life, South Korea
