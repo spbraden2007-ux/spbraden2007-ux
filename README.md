@@ -1,14 +1,11 @@
 # Hi, I'm SP 
 
-**Computer Science @ University of Waterloo** | Korea Presidential Science Scholarship Recipient
+**Computer Science @ University of Waterloo** | SE @ Hanwha Life
 
-**IOC President Award Winner** — 2024 Gangwon Winter Youth Olympics Alibaba Cloud Hackathon
-
+**Korea Presidential Science Scholar | 대통령과학장학생**
 ---
 
 ## Currently
-
-- Seeking **Summer 2026 Co-op** in Quant / SWE / AI / Strategy
 
 ---
 
