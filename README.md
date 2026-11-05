@@ -1,11 +1,11 @@
 # Hi, I'm SP 
 
-**Computer Science @ University of Waterloo** | SE @ Hanwha Life
+**Computer Science @ University of Waterloo**
 
-**Korea Presidential Science Scholar | 대통령과학장학생**
+**Korea Presidential Science Scholar** | 대통령과학장학생
 ---
 
-## Currently
+## Currently: Software Engineer @ Hanwha Life, South Korea
 
 ---
 
